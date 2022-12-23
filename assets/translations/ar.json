@@ -1,0 +1,18 @@
+{
+
+  "kToday":"اليوم",
+  "kAddTask":"أضف مهمة",
+  "kTitle":"العنوان",
+  "kNote":"ملاحظة",
+  "kDate":"التاريخ",
+  "kRemind":"تذكير",
+  "kRepeat":"تكرار",
+  "kColor":"لون",
+  "kMinute": "دقيقة قبل",
+  "kNone": "فارغ",
+  "kEnterNote": "اكتب الملاحظة..",
+  "kEnterTitle": "اكتب العنوان..",
+  "kAddTaskTitle": "أضف مهمة جديدة",
+  "kStartTime":"وقت البداية",
+  "kEndTime":"وقت النهاية"
+}

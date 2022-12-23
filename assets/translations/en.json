@@ -1,0 +1,20 @@
+{
+
+  "kToday":"Today",
+  "kTitle":"Title",
+  "kNote":"Note",
+  "kAddTask":"Add Task",
+  "kDate":"Date",
+  "kRemind":"Remind",
+  "kRepeat":"Repeat",
+  "kColor":"Color",
+  "kMinute": "minuted early",
+  "kNone": "None",
+  "kEnterNote": "Enter note here..",
+  "kEnterTitle": "Enter title here..",
+  "kAddTaskTitle": "Add New Task",
+
+  "kStartTime":"Start Time",
+  "kEndTime":"End Time"
+
+}
